@@ -1,7 +1,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Mihiteru/Mihiteru/main/imgs/title1.png" width="25"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25"/> 
   <em>About me</em>
 </h2>
 
@@ -18,13 +18,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mihiteru/Mihiteru/main/imgs/img3.png" width="15"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/1057/1057090.png" width="15"/> 
   <em><b>Cross-platform developer</b></em> <br/>
-  <img src="https://raw.githubusercontent.com/Mihiteru/Mihiteru/main/imgs/img4.png" width="15"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="15"/> 
   <em><b>Focus on Material Design 3 / Fluent</b></em><br/>
-  <img src="https://raw.githubusercontent.com/Mihiteru/Mihiteru/main/imgs/img2.png" width="15"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055672.png" width="15"/> 
   <em><b>Clean Architecture & Performance-first</b></em><br/>
-  <img src="https://raw.githubusercontent.com/Mihiteru/Mihiteru/main/imgs/img1.png" width="15"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/3069/3069171.png" width="15"/> 
   <em><b>Always learning new tools</b></em><br/>
 </p>
 
@@ -32,7 +32,7 @@
 <br/>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Mihiteru/Mihiteru/main/imgs/title2.png" width="25"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/2729/2729007.png" width="25"/> 
   <em>Technologies</em>
 </h2>
 
