@@ -1,4 +1,4 @@
-<img src="githubanner.JPG"/>
+<img src="githubanner.JPG.JPG"/>
 
 <p align="center">
   <a href="https://t.me/Mihiteru" target="_blank">
