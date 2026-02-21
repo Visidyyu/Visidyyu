@@ -1,14 +1,5 @@
 <img src="githubanner.JPG.jpg"/>
 
-<p align="center">
-  <a href="https://t.me/Mihiteru" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:hi@mihiteru.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <br>
 
 <h2 align="center"> 
