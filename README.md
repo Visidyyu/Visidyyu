@@ -1,84 +1,46 @@
-<!-- Верхний градиентный divider (мягкий, современный) -->
-<div align="center" style="margin: 0 0 40px;">
-  <div style="height: 4px; width: 200px; background: linear-gradient(90deg, transparent, #00D9FF, #a78bfa, transparent); border-radius: 999px; margin: 0 auto; opacity: 0.8;"></div>
-</div>
-
-<!-- Typing SVG сверху – динамичный заголовок -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Mihiteru;Cross-Platform+Developer;Web+%7C+Android+(Kotlin)+%7C+Desktop+(WPF+%2F+C%23+%2F+C++)" alt="Typing SVG" />
-</div>
-
+<img src = "githubanner.JPG"/>
+<p align="center">
+  <!-- Remove social links since none are provided in Visidyyu's profile -->
+</p>
 <br>
-
-<!-- Trophies – твои достижения в красивом виде -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mihiteru&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7&title_color=00D9FF&text_color=C5D1F0&icon_color=7DD3FC&border_color=334155" alt="GitHub Trophies" />
-</div>
-
-<br><br>
-
-<!-- Короткий "Обо мне" блок в Material-стиле -->
-<div align="center">
-  <div style="
-    background: linear-gradient(145deg, #1e1e2e, #0f172a);
-    border-radius: 20px;
-    padding: 32px 28px;
-    max-width: 800px;
-    box-shadow: 0 10px 30px rgba(0, 217, 255, 0.08);
-    border: 1px solid rgba(0, 217, 255, 0.15);
-    margin: 0 auto 40px;
-  ">
-    <h2 style="color: #00D9FF; margin: 0 0 16px; font-size: 2.2em;">About Me</h2>
-    <p style="color: #e2e8f0; line-height: 1.7; font-size: 1.1em; margin: 0;">
-      Cross-platform developer creating apps for Web, Android & Desktop.<br>
-      Focus on Material Design 3 / Material You, Fluent Design, clean architecture,<br>
-      high performance and modern tools.
-    </p>
-  </div>
-</div>
-
-<!-- Основной стек иконок -->
-<h2 align="center" style="color: #a78bfa; margin: 48px 0 24px;">🛠 Tech Stack</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,jetpackcompose,cs,dotnet,cpp,html,css,js,ts,react,nextjs,tailwind,nodejs,git,vscode,figma&perline=8" alt="Tech Stack" />
-</div>
-
-<br>
-
-<!-- Подробные секции навыков -->
-<h3 align="center" style="color: #00D9FF; margin: 48px 0 16px;">📱 Android • Kotlin</h3>
-<div align="center" style="max-width: 700px; margin: 0 auto; color: #cbd5e1; line-height: 1.6;">
-  Jetpack Compose • Material 3 (dynamic theming) • Coroutines / Flow<br>
-  Clean Architecture + MVVM / MVI • KTS Gradle • Hilt / Koin • Room / DataStore
-</div>
-
-<h3 align="center" style="color: #00D9FF; margin: 56px 0 16px;">🖥 Desktop • .NET / C++</h3>
-<div align="center" style="max-width: 700px; margin: 0 auto; color: #cbd5e1; line-height: 1.6;">
-  WPF + MaterialDesignInXamlToolkit • Fluent / Modern Windows UI<br>
-  MVVM (CommunityToolkit) • WinForms (quick prototypes)<br>
-  C++ for performance-critical parts • WinAPI
-</div>
-
-<h3 align="center" style="color: #00D9FF; margin: 56px 0 16px;">🌐 Web</h3>
-<div align="center" style="max-width: 700px; margin: 0 auto; color: #cbd5e1; line-height: 1.6;">
-  React / Next.js (App Router) • TypeScript • Tailwind CSS + shadcn/ui<br>
-  SSR / SSG / ISR • Responsive + PWA • State management (Zustand / Redux)
-</div>
-
-<br><br>
-
-<!-- Нижний divider + quote -->
-<div align="center" style="margin: 60px 0 32px;">
-  <div style="height: 4px; width: 180px; background: linear-gradient(90deg, transparent, #a78bfa, #00D9FF, transparent); border-radius: 999px; margin: 0 auto; opacity: 0.8;"></div>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Made with ❤️ • Updated February 2026</sub>
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About me </em></h2>
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+<p>
+  Hello There! <em><b> I'm Visidyyu </b></em>, a Cross-platform developer. I create apps for Web, Android & Desktop and focus on Material Design 3 / Material You, Fluent Design, clean architecture, high performance and modern tools.
+</p>
+<br/>
+<p align="center">
+   <!-- Adapted based on available info; no specific studying, tutoring, competitions, or hobbies mentioned, so simplified or removed non-applicable items -->
+   <img src="/imgs/img3.png" width="15"/> <em><b> Cross-platform developer for Web, Android & Desktop </b></em> <br/>
+</p>
+<br/>
+<br/>
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<p align="center">
+  <!-- Adapted to Visidyyu's tech stack -->
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+<br/>
+<br/>
+<h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<div align = "center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Visidyyu&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350) ![](https://nirzak-streak-stats.vercel.app/?user=Visidyyu&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Visidyyu&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
