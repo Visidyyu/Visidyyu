@@ -1,6 +1,6 @@
 <img src="githubanner.JPG" />
 
-<!-- Social links – добавь свои, если появятся -->
+<!-- Social links — добавь свои, если есть (LinkedIn, Telegram, etc.) -->
 <p align="center">
   <!-- Пока пусто, как в твоём профиле -->
 </p>
@@ -9,9 +9,9 @@
 
 <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About me</em> </h2>
 
-<!-- Крутой typing-баннер -->
+<!-- Динамичный typing баннер (сгенерирован под тебя) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cross-Platform+Developer;Web+%7C+Android+(Kotlin)+%7C+Desktop+(WPF+%2F+C%23)" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello!+I'm+Visidyyu;Cross-Platform+Developer;Web+%7C+Android+(Kotlin)+%7C+Desktop+(WPF+%2F+C%23);Material+You+%26+Fluent+Design" alt="Typing SVG Banner" />
 </div>
 
 <br/>
@@ -20,46 +20,22 @@
 
 <p>
   Hello There! <em><b>I'm Visidyyu</b></em>, a passionate Cross-platform developer.<br>
-  I create beautiful and performant apps for <strong>Web</strong>, <strong>Android</strong> & <strong>Desktop</strong>.<br>
-  Focus: <strong>Material Design 3 / Material You</strong>, <strong>Fluent Design</strong>, clean architecture, high performance and modern tools.
+  I build beautiful, high-performance applications for <strong>Web</strong>, <strong>Android</strong> and <strong>Desktop</strong>.<br>
+  My main focus: <strong>Material Design 3 / Material You</strong>, <strong>Fluent Design</strong>, clean architecture and the latest modern tools.
 </p>
 
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/> <em><b>Cross-platform developer — Web · Android · Desktop</b></em> <br/>
-   <img src="/imgs/img3.png" width="15"/> <em><b>Pixel-perfect UIs with dynamic theming</b></em> <br/>
-   <img src="/imgs/img3.png" width="15"/> <em><b>Always exploring new tech and best practices</b></em>
+   <img src="/imgs/img3.png" width="15"/> <em><b>Creating pixel-perfect UIs with dynamic theming</b></em> <br/>
+   <img src="/imgs/img3.png" width="15"/> <em><b>Android (Kotlin + Jetpack Compose) • Desktop (WPF / C# / C++) • Web (React / Next.js)</b></em> <br/>
+   <img src="/imgs/img3.png" width="15"/> <em><b>Always experimenting with clean code and performance optimizations</b></em> <br/>
+   <img src="/imgs/img1.png" width="15"/> <em><b>Passionate about modern UI/UX paradigms</b></em>
 </p>
 
 <br/><br/>
 
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em>Technologies</em> </h2>
-
-<!-- Современные иконки skillicons – выглядят круто и компактно -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,jetpackcompose,cs,dotnet,cpp,html,css,js,ts,react,nextjs,tailwind,nodejs,git,vscode,figma&perline=8" alt="Tech Stack" />
-</div>
-
-<br/>
-
-<!-- Подробное описание под иконками – как в твоём реальном профиле -->
-<div align="center" style="max-width: 800px; margin: 0 auto; line-height: 1.6;">
-
-**Android • Kotlin**  
-Jetpack Compose • Material 3 (dynamic theming) • Coroutines / Flow • Clean Architecture + MVVM/MVI • Hilt / Koin • Room / DataStore • KTS Gradle
-
-**Desktop • .NET / C++**  
-WPF + MaterialDesignInXamlToolkit • Fluent / Modern Windows UI • MVVM (CommunityToolkit.Mvvm) • C++ for performance-critical parts • WinAPI
-
-**Web**  
-React / Next.js (App Router) • TypeScript • Tailwind CSS + shadcn/ui • SSR / SSG / ISR • Responsive + PWA • Zustand / Redux
-
-</div>
-
-<br/><br/>
-
 <!-- Footer -->
-<div align="center">
+<div align="center" style="margin-top: 60px;">
   <sub>Made with ❤️ • Updated February 2026</sub>
 </div>
