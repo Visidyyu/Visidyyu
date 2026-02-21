@@ -1,6 +1,4 @@
-Hello There! <em><b>I'm Visidyyu</b></em>, a cross-platform developer.<br>
-  I enjoy building applications for Web, Android and Desktop.<br>
-  Focus on clean architecture, high performance, Material Design 3 / Material You and Fluent Design. выровни красиво : <br>
+
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2729/2729007.png" width="25"/>
   <em>About me</em>
