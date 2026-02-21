@@ -5,7 +5,7 @@
   <em>About me</em>
 </h2>
 
-<img src="https://i.pinimg.com/originals/f8/72/ec/f872ec39b60d021ac12ad39348fad5fa.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <br/>
 
