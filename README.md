@@ -10,7 +10,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b>I'm Mihiteru</b></em>, a cross-platform developer.<br>
+  Hello There! <em><b>I'm Visidyyu</b></em>, a cross-platform developer.<br>
   I enjoy building applications for Web, Android and Desktop.<br>
   Focus on clean architecture, high performance, Material Design 3 / Material You and Fluent Design.
 </p>
