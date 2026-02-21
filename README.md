@@ -4,11 +4,7 @@
 </h2>
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
-<p>
-  Hello There! <em><b>I'm Visidyyu</b></em>, a cross-platform developer.<br>
-  I enjoy building applications for Web, Android and Desktop.<br>
-  Focus on clean architecture, high performance, Material Design 3 / Material You and Fluent Design.
-</p>
+
 <br/>
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3064/3064179.png" width="15"/> <!-- новая иконка -->
