@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="https://t.me/Mihiteru" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:hi@mihiteru.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- Добавь другие ссылки, если нужно -->
-  <!-- <a href="https://linkedin.com/in/mihiteru" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-</p>
-
 <br>
 
 <h2 align="center">
@@ -16,7 +5,7 @@
   <em>About me</em>
 </h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <br/>
 
