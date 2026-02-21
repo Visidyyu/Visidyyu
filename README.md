@@ -6,7 +6,7 @@
   <img src="/imgs/title1.png" width="25"/> <em>About me </em>
 </h2>
 
-<img src="https://i.pinimg.com/originals/b8/06/fa/b806fa73b55dc564cd10e9ec393d1a44.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="[https://i.pinimg.com/originals/24/e1/b5/24e1b51dcfaf8b9d7aeb5d49e91be623.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <br/>
 
