@@ -1,7 +1,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/2729/2729007.png" width="25"/> 
   <em>About me</em>
 </h2>
 
