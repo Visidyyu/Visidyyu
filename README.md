@@ -4,7 +4,6 @@
 </h2>
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
-
 <br/>
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3064/3064179.png" width="15"/> <!-- новая иконка -->
@@ -16,6 +15,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/3069/3069171.png" width="15"/>
   <em><b>Always learning new tools</b></em><br/>
 </p>
+<br/>
+<br/>
 <br/>
 <br/>
 <h2 align="center">
