@@ -1,4 +1,3 @@
-
 <h2 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2729/2729007.png" width="25"/>
   <em>About me</em>
@@ -12,7 +11,7 @@
 </p>
 <br/>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1057/1057090.png" width="15"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064179.png" width="15"/> <!-- новая иконка -->
   <em><b>Cross-platform developer</b></em> <br/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="15"/>
   <em><b>Focus on Material Design 3 / Fluent</b></em><br/>
